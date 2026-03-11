@@ -1,0 +1,1 @@
+print(f"Bom dia {judas}. Infelizmente precisarei convidar o nosso jantar hoje, aconteceu um imprevisto, espero que compreenda. Peço desculpas.")

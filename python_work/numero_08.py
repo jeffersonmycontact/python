@@ -1,0 +1,5 @@
+print(5+3)
+print(100-92)
+print(800/100)
+print(-2*-4)
+print(2**3)
